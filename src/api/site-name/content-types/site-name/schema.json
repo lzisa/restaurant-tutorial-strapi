@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_names",
+  "info": {
+    "singularName": "site-name",
+    "pluralName": "site-names",
+    "displayName": "siteName"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
